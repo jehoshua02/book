@@ -16,3 +16,15 @@ To try to find, by seeking carefully and thoroughly, and put forward for
 consideration and discussion, those things satisfying one's conception of what
 is perfect and most suitable in every particular part or feature of the
 carefully designed structure of programs that run in a web browser.
+
+Aspects of web application architecture:
+
++ Loading in configuration
++ Fetching data
++ Displaying data
++ Handling user actions
++ Saving data
++ Handling real time updates
++ Sending notifications
+
+Is there more? What else is there? Is that really it?
