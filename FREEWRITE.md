@@ -31,3 +31,5 @@ Other things we might want to explore:
 + SOLID
 + Dependency Injection
 + Document Storage verus RDB
++ File system
++ Organic, accidental MVC
