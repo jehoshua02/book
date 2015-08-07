@@ -1,6 +1,7 @@
 Essential things the web application needs to do:
 
-+ Authenticating the user
++ Authenticating user
++ Checking user permissions
 + Loading configuration
 + Fetching data
 + Caching data
@@ -21,7 +22,8 @@ Other things we might want to explore:
 + Functions/FP
 + Code reuse
 + Semver
-+ Splitting front-end from backend
++ Smaller, independent libraries, versioned separately
++ Splitting frontend from backend
 + Bundling for the browser
 + Minification
 + Unit Testing
@@ -30,6 +32,14 @@ Other things we might want to explore:
 + Accessibility
 + SOLID
 + Dependency Injection
-+ Document Storage verus RDB
++ Document Storage versus RDB
 + File system
-+ Organic, accidental MVC
++ MVC
++ Responsive Design
++ Ads
++ Analytics
++ ORM
++ API Design
++ API Security
++ Technical Debt
++ Frameworkitis
